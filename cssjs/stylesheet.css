@@ -1,7 +1,7 @@
 @font-face { font-family: "Digital"; src: url('../fonts/Adequate-ExtraLight.ttf'); }
 @font-face { font-family: "Micro"; src: url('../fonts/MicroExtendFLF.ttf'); }
 body {
-	background-image: url(https://testingcf.jsdelivr.net/gh/walaguaoeu/ku@master/tu/benhuai.png);
+	background-image: url(https://testingcf.jsdelivr.net/gh/walaguaoeu/ku@master/tu/benhuai.jpg);
 	background-size: cover;
 	background-position: top center;
 	background-color:#FFF;
@@ -26,6 +26,7 @@ body {
 	font-family: "Micro";
 	color:#FFF;
 }
+
 
 #particles-js{
 	position: fixed;
